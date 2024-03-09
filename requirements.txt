@@ -1,0 +1,13 @@
+glob2
+opencv-python
+keras
+numpy
+matplotlib
+pandas
+pillow
+tensorflow
+Python-IO
+pybase64
+random2
+ipykernel
+opencv
